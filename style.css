@@ -62,7 +62,7 @@ header ul a{
   font-size: 1.05rem;
   padding: 0 3rem;
 }
-.hamburger a{
+/* .hamburger a{
   padding: 0;
   width: 37px;
   height: 37px;
@@ -73,7 +73,7 @@ header ul a{
   -webkit-backdrop-filter: blur(10px);
   justify-content: center;
   align-items: center;
-}
+} */
 .hamburger{
   padding-left: 1.5rem;
 }
